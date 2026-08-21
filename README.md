@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🗑️ Smart Home Guard
+# 🏘️ Smart Home Guard
 
 ### *From a Semester Mini Project to a Smart Home Guard System*
 
