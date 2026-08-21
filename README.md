@@ -13,7 +13,7 @@
 
 
 
-> **A Smart Home Guard System with Face Detection and MIT App Integration using OOPs and Finite State Machines (FSM)**
+**A Smart Home Guard System with Face Detection and MIT App Integration using OOPs and Finite State Machines (FSM)**
 
 </div>
 
