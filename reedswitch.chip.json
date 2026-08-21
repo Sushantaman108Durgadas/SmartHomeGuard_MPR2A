@@ -1,0 +1,12 @@
+{
+  "name": "reedswitch",
+  "author": "Suyash Shirsat",
+  "pins": [
+    "VCC",
+    "GND",
+    "ABLE",
+    "SIMUL",
+    "OUTPIN"
+  ],
+  "controls": []
+}
