@@ -105,6 +105,7 @@ Version 3
 
 - ESP32
 - STM32
+- Rpi
 - PIR
 - Reed switches
 - DHT sensor
