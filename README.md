@@ -40,8 +40,11 @@ The overall hardware and software system uses an event-driven flow across local 
 
 # 🎬 Project Demo & Presentation
 
+> ▶️ **Click the thumbnail below to watch the project presentation.**
 
-<video src="assets/videos/project_presentation.mp4" controls width="100%"></video>
+[![Smart Home Guard Project Presentation](assets/images/project_thumbnail.png)](assets/videos/project_presentation.mp4)
+
+**Video:** [`assets/videos/project_presentation.mp4`](assets/videos/project_presentation.mp4)
 
 ---
 
