@@ -29,7 +29,7 @@ This project began with a lot of pondering regarding sensor selections, system a
 
 The overall hardware and software system uses an event-driven flow across local state machines, connectivity modules, and computer vision integration:
 
-![System Architecture](assets/architecture.png)
+![System Architecture](assets/images/architecture.png)
 
 ### Core Architectural Flow:
 1. **Authorization Layer:** Raspberry Pi executes face detection/recognition pipeline and passes verification signals to the ESP32[cite: 1].
@@ -41,7 +41,7 @@ The overall hardware and software system uses an event-driven flow across local 
 # 🎬 Project Demo & Presentation
 
 
-<video src="assets/project_presentation.mp4" controls width="100%"></video>
+<video src="assets/videos/project_presentation.mp4" controls width="100%"></video>
 
 ---
 
