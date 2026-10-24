@@ -8,8 +8,8 @@ import requests
 from datetime import datetime
 
 # Firebase configuration
-API_KEY = "AIzaSyCK6LuDtpDabda63uHs46O5hNnwPOKri3U"
-DATABASE_URL = "https://home-security-mpr-default-rtdb.asia-southeast1.firebasedatabase.app"
+API_KEY = #add your own
+DATABASE_URL = #add your own
 
 # Load pre-trained face encodings
 print("[INFO] loading encodings...")
