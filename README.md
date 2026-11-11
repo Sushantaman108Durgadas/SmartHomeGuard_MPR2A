@@ -105,10 +105,21 @@ Directory structure:
     │   ├── reedswitch.chip.json
     │   ├── sketch.ino
     │   └── wokwi-project.txt
+    ├── Face_Recognition/
+    │   ├── Readme.md
+    │   ├── encodings.pickle
+    │   ├── facial_recognition.py
+    │   ├── facial_recognition_hardware.py
+    │   ├── image_capture.py
+    │   ├── model_training.py
+    │   └── placeholder.txt
     └── src/
-        ├── ESP32_HomeGuard.ino
-        └── STM32_HomeGuard.ino
-
+        ├── AppInventor/
+        │   └── SMARTHOMEGUARD.apk
+        ├── ESP32/
+        │   └── ESP32_HomeGuard.ino
+        └── STM32/
+            └── STM32_HomeGuard.ino
 
 ```
 
